@@ -260,6 +260,18 @@
       "languageVersion": "3.2"
     },
     {
+      "name": "firebase_crashlytics",
+      "rootUri": "file:///C:/Users/Administrator/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_crashlytics-3.5.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "firebase_crashlytics_platform_interface",
+      "rootUri": "file:///C:/Users/Administrator/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_crashlytics_platform_interface-3.6.35",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
       "name": "firebase_messaging",
       "rootUri": "file:///C:/Users/Administrator/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_messaging-14.9.4",
       "packageUri": "lib/",
@@ -274,6 +286,24 @@
     {
       "name": "firebase_messaging_web",
       "rootUri": "file:///C:/Users/Administrator/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_messaging_web-3.8.7",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "firebase_remote_config",
+      "rootUri": "file:///C:/Users/Administrator/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_remote_config-4.4.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "firebase_remote_config_platform_interface",
+      "rootUri": "file:///C:/Users/Administrator/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_remote_config_platform_interface-1.4.35",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "firebase_remote_config_web",
+      "rootUri": "file:///C:/Users/Administrator/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_remote_config_web-1.6.7",
       "packageUri": "lib/",
       "languageVersion": "3.2"
     },
@@ -1070,7 +1100,7 @@
       "languageVersion": "3.3"
     }
   ],
-  "generated": "2025-01-15T07:28:46.652088Z",
+  "generated": "2025-01-15T08:12:26.544560Z",
   "generator": "pub",
   "generatorVersion": "3.6.0",
   "flutterRoot": "file:///C:/src/flutter",
