@@ -4,7 +4,7 @@
 
 import 'dart:core';
 
-import 'package:doctors_appointments/app/models/user_model.dart';
+import 'package:afridocx/app/models/user_model.dart';
 
 import 'address_model.dart';
 import 'availability_hour_model.dart';

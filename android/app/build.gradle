@@ -7,7 +7,7 @@ plugins {
 apply plugin: 'com.google.gms.google-services'
 
 android {
-    namespace = "com.example.doctors_appointments"
+    namespace = "com.example.afridocx"
     compileSdkVersion = 34
     ndkVersion = "27.0.12077973"
     compileOptions {
@@ -18,7 +18,7 @@ android {
         jvmTarget = '21'
     }
     defaultConfig {
-        applicationId = "com.example.doctors_appointments"
+        applicationId = "com.example.afridocx"
         minSdkVersion = 27
         targetSdkVersion = 34
         versionCode = flutter.versionCode

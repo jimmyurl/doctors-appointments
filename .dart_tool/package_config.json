@@ -1118,13 +1118,13 @@
       "languageVersion": "3.4"
     },
     {
-      "name": "doctors_appointments",
+      "name": "afridocx",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.3"
     }
   ],
-  "generated": "2025-01-16T11:52:09.467156Z",
+  "generated": "2025-01-16T12:38:48.550150Z",
   "generator": "pub",
   "generatorVersion": "3.6.0",
   "flutterRoot": "file:///C:/src/flutter",

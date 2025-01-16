@@ -2,7 +2,7 @@ import 'dart:io';
 
 import 'package:dio/dio.dart';
 import 'package:dio_http_cache/dio_http_cache.dart';
-import 'package:doctors_appointments/common/custom_trace.dart';
+import 'package:afridocx/common/custom_trace.dart';
 import 'package:flutter/foundation.dart';
 import 'package:get/get.dart';
 

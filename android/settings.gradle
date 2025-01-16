@@ -26,11 +26,11 @@ include ":app"
 
 // Add namespace configuration for plugins
 gradle.beforeProject { project ->
-    if (project.name == "doctors_appointments") {
+    if (project.name == "afridocx") {
         project.plugins.whenPluginAdded { plugin ->
             if (plugin.class.name.contains('AndroidBasePlugin')) {
                 project.android {
-                    namespace = "com.example.doctors_appointments"
+                    namespace = "com.example.afridocx"
                 }
             }
         }
