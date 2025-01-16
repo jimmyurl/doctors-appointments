@@ -26,8 +26,11 @@ dependencies:
   # Maps and Location
   google_maps_flutter: ^2.6.0
   map_location_picker: ^1.3.0-beta.1
-  google_maps_place_picker_mb: ^3.1.0
   map_launcher: ^3.5.0
+  google_maps_place_picker_mb:
+    git:
+      url: https://github.com/getinph/google_maps_place_picker_mb.git
+      ref: master
  
   
   # State Management and Storage
