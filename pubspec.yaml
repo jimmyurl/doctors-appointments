@@ -42,7 +42,7 @@ dependencies:
   dio_http_cache: 0.3.0
   
   # UI Components
-  google_fonts: 6.2.1
+  google_fonts: ^4.0.4
   cached_network_image: ^3.4.0  # Downgraded from 3.4.1
   carousel_slider: 5.0.0
   flutter_svg: ^2.0.17
