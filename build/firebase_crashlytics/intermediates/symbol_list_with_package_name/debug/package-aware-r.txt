@@ -1,0 +1,2 @@
+com.example.firebase_crashlytics
+bool com_crashlytics_RequireBuildId
