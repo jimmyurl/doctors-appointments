@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "com.example.tz.co.afridocx.afridocx.app-merged_res-67:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.tz.co.afridocx.afridocx.app-main-61:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.tz.co.afridocx.afridocx.app-merged_res-67:/drawable-v21_launch_background.xml.flat",
+        "source": "com.example.tz.co.afridocx.afridocx.app-main-61:/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "com.example.tz.co.afridocx.afridocx.app-merged_res-67:/mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.tz.co.afridocx.afridocx.app-main-61:/mipmap-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.tz.co.afridocx.afridocx.app-merged_res-67:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.tz.co.afridocx.afridocx.app-main-61:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.tz.co.afridocx.afridocx.app-merged_res-67:/drawable-xhdpi_android12splash.png.flat",
+        "source": "com.example.tz.co.afridocx.afridocx.app-main-61:/drawable-xhdpi/android12splash.png"
+    },
+    {
+        "merged": "com.example.tz.co.afridocx.afridocx.app-merged_res-67:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.tz.co.afridocx.afridocx.app-main-61:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.tz.co.afridocx.afridocx.app-merged_res-67:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.tz.co.afridocx.afridocx.app-main-61:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.tz.co.afridocx.afridocx.app-merged_res-67:/drawable-night-xhdpi_android12splash.png.flat",
+        "source": "com.example.tz.co.afridocx.afridocx.app-main-61:/drawable-night-xhdpi/android12splash.png"
+    },
+    {
+        "merged": "com.example.tz.co.afridocx.afridocx.app-merged_res-67:/drawable-xxxhdpi_splash.png.flat",
+        "source": "com.example.tz.co.afridocx.afridocx.app-main-61:/drawable-xxxhdpi/splash.png"
+    },
+    {
+        "merged": "com.example.tz.co.afridocx.afridocx.app-merged_res-67:/drawable-night-hdpi_android12splash.png.flat",
+        "source": "com.example.tz.co.afridocx.afridocx.app-main-61:/drawable-night-hdpi/android12splash.png"
+    },
+    {
+        "merged": "com.example.tz.co.afridocx.afridocx.app-merged_res-67:/mipmap-hdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.example.tz.co.afridocx.afridocx.app-main-61:/mipmap-hdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.example.tz.co.afridocx.afridocx.app-merged_res-67:/drawable-night-mdpi_android12splash.png.flat",
+        "source": "com.example.tz.co.afridocx.afridocx.app-main-61:/drawable-night-mdpi/android12splash.png"
+    },
+    {
+        "merged": "com.example.tz.co.afridocx.afridocx.app-merged_res-67:/mipmap-hdpi_ic_notification.png.flat",
+        "source": "com.example.tz.co.afridocx.afridocx.app-main-61:/mipmap-hdpi/ic_notification.png"
+    },
+    {
+        "merged": "com.example.tz.co.afridocx.afridocx.app-merged_res-67:/mipmap-xhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.example.tz.co.afridocx.afridocx.app-main-61:/mipmap-xhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.example.tz.co.afridocx.afridocx.app-merged_res-67:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.tz.co.afridocx.afridocx.app-main-61:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.tz.co.afridocx.afridocx.app-merged_res-67:/drawable-xxhdpi_splash.png.flat",
+        "source": "com.example.tz.co.afridocx.afridocx.app-main-61:/drawable-xxhdpi/splash.png"
+    },
+    {
+        "merged": "com.example.tz.co.afridocx.afridocx.app-merged_res-67:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.tz.co.afridocx.afridocx.app-main-61:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.tz.co.afridocx.afridocx.app-merged_res-67:/mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.tz.co.afridocx.afridocx.app-main-61:/mipmap-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.tz.co.afridocx.afridocx.app-merged_res-67:/mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.tz.co.afridocx.afridocx.app-main-61:/mipmap-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.tz.co.afridocx.afridocx.app-merged_res-67:/drawable-v21_background.png.flat",
+        "source": "com.example.tz.co.afridocx.afridocx.app-main-61:/drawable-v21/background.png"
+    },
+    {
+        "merged": "com.example.tz.co.afridocx.afridocx.app-merged_res-67:/mipmap-xxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.example.tz.co.afridocx.afridocx.app-main-61:/mipmap-xxhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.example.tz.co.afridocx.afridocx.app-merged_res-67:/drawable-night-xxhdpi_android12splash.png.flat",
+        "source": "com.example.tz.co.afridocx.afridocx.app-main-61:/drawable-night-xxhdpi/android12splash.png"
+    },
+    {
+        "merged": "com.example.tz.co.afridocx.afridocx.app-merged_res-67:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.tz.co.afridocx.afridocx.app-main-61:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.tz.co.afridocx.afridocx.app-merged_res-67:/drawable-night-v21_launch_background.xml.flat",
+        "source": "com.example.tz.co.afridocx.afridocx.app-main-61:/drawable-night-v21/launch_background.xml"
+    },
+    {
+        "merged": "com.example.tz.co.afridocx.afridocx.app-merged_res-67:/drawable-xxhdpi_android12splash.png.flat",
+        "source": "com.example.tz.co.afridocx.afridocx.app-main-61:/drawable-xxhdpi/android12splash.png"
+    },
+    {
+        "merged": "com.example.tz.co.afridocx.afridocx.app-merged_res-67:/drawable-night-xxxhdpi_android12splash.png.flat",
+        "source": "com.example.tz.co.afridocx.afridocx.app-main-61:/drawable-night-xxxhdpi/android12splash.png"
+    },
+    {
+        "merged": "com.example.tz.co.afridocx.afridocx.app-merged_res-67:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.tz.co.afridocx.afridocx.app-main-61:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.tz.co.afridocx.afridocx.app-merged_res-67:/drawable-mdpi_android12splash.png.flat",
+        "source": "com.example.tz.co.afridocx.afridocx.app-main-61:/drawable-mdpi/android12splash.png"
+    },
+    {
+        "merged": "com.example.tz.co.afridocx.afridocx.app-merged_res-67:/mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "com.example.tz.co.afridocx.afridocx.app-main-61:/mipmap-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.tz.co.afridocx.afridocx.app-merged_res-67:/mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "com.example.tz.co.afridocx.afridocx.app-main-61:/mipmap-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.tz.co.afridocx.afridocx.app-merged_res-67:/mipmap-xxxhdpi_ic_notification.png.flat",
+        "source": "com.example.tz.co.afridocx.afridocx.app-main-61:/mipmap-xxxhdpi/ic_notification.png"
+    },
+    {
+        "merged": "com.example.tz.co.afridocx.afridocx.app-merged_res-67:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.tz.co.afridocx.afridocx.app-main-61:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.tz.co.afridocx.afridocx.app-merged_res-67:/mipmap-mdpi_ic_notification.png.flat",
+        "source": "com.example.tz.co.afridocx.afridocx.app-main-61:/mipmap-mdpi/ic_notification.png"
+    },
+    {
+        "merged": "com.example.tz.co.afridocx.afridocx.app-merged_res-67:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.tz.co.afridocx.afridocx.app-main-61:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.tz.co.afridocx.afridocx.app-merged_res-67:/drawable-mdpi_splash.png.flat",
+        "source": "com.example.tz.co.afridocx.afridocx.app-main-61:/drawable-mdpi/splash.png"
+    },
+    {
+        "merged": "com.example.tz.co.afridocx.afridocx.app-merged_res-67:/mipmap-xxxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.example.tz.co.afridocx.afridocx.app-main-61:/mipmap-xxxhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.example.tz.co.afridocx.afridocx.app-merged_res-67:/drawable-hdpi_splash.png.flat",
+        "source": "com.example.tz.co.afridocx.afridocx.app-main-61:/drawable-hdpi/splash.png"
+    },
+    {
+        "merged": "com.example.tz.co.afridocx.afridocx.app-merged_res-67:/drawable-xxxhdpi_android12splash.png.flat",
+        "source": "com.example.tz.co.afridocx.afridocx.app-main-61:/drawable-xxxhdpi/android12splash.png"
+    },
+    {
+        "merged": "com.example.tz.co.afridocx.afridocx.app-merged_res-67:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.tz.co.afridocx.afridocx.app-main-61:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.tz.co.afridocx.afridocx.app-merged_res-67:/drawable-night-v21_background.png.flat",
+        "source": "com.example.tz.co.afridocx.afridocx.app-main-61:/drawable-night-v21/background.png"
+    },
+    {
+        "merged": "com.example.tz.co.afridocx.afridocx.app-merged_res-67:/mipmap-xxhdpi_ic_notification.png.flat",
+        "source": "com.example.tz.co.afridocx.afridocx.app-main-61:/mipmap-xxhdpi/ic_notification.png"
+    },
+    {
+        "merged": "com.example.tz.co.afridocx.afridocx.app-merged_res-67:/mipmap-mdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.example.tz.co.afridocx.afridocx.app-main-61:/mipmap-mdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.example.tz.co.afridocx.afridocx.app-merged_res-67:/drawable-hdpi_android12splash.png.flat",
+        "source": "com.example.tz.co.afridocx.afridocx.app-main-61:/drawable-hdpi/android12splash.png"
+    },
+    {
+        "merged": "com.example.tz.co.afridocx.afridocx.app-merged_res-67:/drawable-xhdpi_splash.png.flat",
+        "source": "com.example.tz.co.afridocx.afridocx.app-main-61:/drawable-xhdpi/splash.png"
+    },
+    {
+        "merged": "com.example.tz.co.afridocx.afridocx.app-merged_res-67:/mipmap-xhdpi_ic_notification.png.flat",
+        "source": "com.example.tz.co.afridocx.afridocx.app-main-61:/mipmap-xhdpi/ic_notification.png"
+    }
+]
