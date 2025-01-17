@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:google_maps_place_picker_mb/google_maps_place_picker.dart';
+import 'package:google_maps_place_picker/google_maps_place_picker.dart';
 
 import '../../../models/address_model.dart';
 import '../../../services/auth_service.dart';
