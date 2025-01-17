@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:name="sprocketCanvas"
+    android:width="40dp"
+    android:height="40dp"
+    android:viewportWidth="40"
+    android:viewportHeight="40">
+    <!-- Group -->
+    <group
+        android:name="group">
+        <!-- Clip Clip -->
+        <clip-path
+            android:name="clip"
+            android:pathData="M 25.85,0.62 L 29.81,5.47 L 35.49,7.87 L 35.95,14.21 L 39.17,19.62 L 35.95,25.03 L 35.49,31.37 L 29.81,33.77 L 25.85,38.63 L 19.89,37.11 L 13.94,38.63 L 9.97,33.77 L 4.3,31.37 L 3.84,25.03 L 0.62,19.62 L 3.84,14.21 L 4.3,7.87 L 9.97,5.47 L 13.94,0.62 L 19.89,2.13 L 25.85,0.62 ZM 31.91,14.91 L 27.68,10.48 L 17.91,20.71 L 13.69,16.28 L 9.5,20.66 L 13.73,25.09 L 17.96,29.52 L 31.91,14.91 Z" />
+
+        <!-- Picture -->
+        <group
+            android:name="picture-transform"
+            android:translateX="0.62"
+            android:translateY="0.34"
+            android:scaleX="0.77"
+            android:scaleY="0.77">
+            <path
+                android:name="picture"
+                android:pathData="M 0,50 L 50,50 L 50,0 L 0,0 L 0,50 Z" />
+        </group>
+    </group>
+
+    <!-- Bezier 2 -->
+    <path
+        android:name="bezier2"
+        android:pathData="M 25.85,0.62 L 29.81,5.47 L 35.49,7.87 L 35.95,14.21 L 39.17,19.62 L 35.95,25.03 L 35.49,31.37 L 29.81,33.77 L 25.85,38.63 L 19.89,37.11 L 13.94,38.63 L 9.97,33.77 L 4.3,31.37 L 3.84,25.03 L 0.62,19.62 L 3.84,14.21 L 4.3,7.87 L 9.97,5.47 L 13.94,0.62 L 19.89,2.13 L 25.85,0.62 ZM 31.91,14.91 L 27.68,10.48 L 17.91,20.71 L 13.69,16.28 L 9.5,20.66 L 13.73,25.09 L 17.96,29.52 L 31.91,14.91 Z"
+        android:fillColor="#FF00CCFF"
+        android:fillType="evenOdd" />
+</vector>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:aapt="http://schemas.android.com/aapt"
+
+    android:name="canvas1"
+
+    android:width="39dp"
+
+    android:height="29dp"
+
+    android:viewportWidth="39"
+
+    android:viewportHeight="29">
+
+    <!-- Group 2 -->
+
+    <group
+
+        android:name="group2">
+
+        <!-- Clip Clip -->
+
+        <clip-path
+
+            android:name="clip"
+
+            android:pathData="M 38.29,0.68 L 27.1,1.07 L 27.23,4.88 L 32.31,4.7 L 21.47,17.2 L 15.49,12.72 C 15.16,12.36 14.59,12.16 14.05,12.23 C 13.64,12.29 13.27,12.49 12.99,12.8 L 0.49,26.16 L 0.71,26.45 C 0.83,26.61 0.99,26.81 1.17,27.03 L 1.61,27.55 L 1.68,27.63 C 1.97,27.95 2.31,28.28 2.7,28.6 L 3.02,28.88 L 14.48,16.62 L 20.3,20.98 L 20.49,21.16 C 21.17,21.78 21.97,21.89 22.76,21.26 L 34.91,7.34 L 35.1,12.78 L 38.71,12.65 L 38.29,0.68 Z" />
+
+
+
+        <!-- Rectangle -->
+
+        <group
+
+            android:name="rectangle-transform"
+
+            android:rotation="-2"
+
+            android:translateX="19.45"
+
+            android:translateY="14.8">
+
+            <path
+
+                android:name="rectangle"
+
+                android:pathData="M -30.45,24.6 L 30.45,24.6 L 30.45,-24.6 L -30.45,-24.6 L -30.45,24.6 Z"
+
+                android:fillColor="#FF808080" />
+
+        </group>
+
+    </group>
+
+</vector>
