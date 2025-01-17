@@ -1064,10 +1064,10 @@
       "languageVersion": "3.3"
     }
   ],
-  "generated": "2025-01-17T11:31:32.813095Z",
+  "generated": "2025-01-17T14:12:46.701315Z",
   "generator": "pub",
-  "generatorVersion": "3.6.0",
+  "generatorVersion": "3.6.1",
   "flutterRoot": "file:///C:/src/flutter",
-  "flutterVersion": "3.27.1",
+  "flutterVersion": "3.27.2",
   "pubCache": "file:///C:/Users/Administrator/AppData/Local/Pub/Cache"
 }

@@ -1,0 +1,30 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.jitsi_meet_flutter_sdk" >
+4
+5    <uses-sdk android:minSdkVersion="24" />
+6
+7    <application>
+7-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\jitsi_meet_flutter_sdk-10.3.0\android\src\main\AndroidManifest.xml:2:5-13:19
+8        <activity
+8-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\jitsi_meet_flutter_sdk-10.3.0\android\src\main\AndroidManifest.xml:3:9-12:20
+9            android:name="org.jitsi.jitsi_meet_flutter_sdk.WrapperJitsiMeetActivity"
+9-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\jitsi_meet_flutter_sdk-10.3.0\android\src\main\AndroidManifest.xml:4:13-85
+10            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
+10-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\jitsi_meet_flutter_sdk-10.3.0\android\src\main\AndroidManifest.xml:5:13-122
+11            android:launchMode="singleTask"
+11-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\jitsi_meet_flutter_sdk-10.3.0\android\src\main\AndroidManifest.xml:6:13-44
+12            android:resizeableActivity="true"
+12-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\jitsi_meet_flutter_sdk-10.3.0\android\src\main\AndroidManifest.xml:8:13-46
+13            android:showOnLockScreen="true"
+13-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\jitsi_meet_flutter_sdk-10.3.0\android\src\main\AndroidManifest.xml:9:13-44
+14            android:supportsPictureInPicture="true"
+14-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\jitsi_meet_flutter_sdk-10.3.0\android\src\main\AndroidManifest.xml:10:13-52
+15            android:theme="@style/JitsiMeetActivityStyle"
+15-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\jitsi_meet_flutter_sdk-10.3.0\android\src\main\AndroidManifest.xml:7:13-58
+16            android:windowSoftInputMode="adjustResize" >
+16-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\jitsi_meet_flutter_sdk-10.3.0\android\src\main\AndroidManifest.xml:11:13-55
+17        </activity>
+18    </application>
+19
+20</manifest>
