@@ -1,0 +1,89 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.map_launcher" >
+4
+5    <uses-sdk android:minSdkVersion="16" />
+6
+7    <queries>
+7-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\map_launcher-3.5.0\android\src\main\AndroidManifest.xml:3:5-30:15
+8        <package android:name="com.google.android.apps.maps" />
+8-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\map_launcher-3.5.0\android\src\main\AndroidManifest.xml:4:9-64
+8-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\map_launcher-3.5.0\android\src\main\AndroidManifest.xml:4:18-61
+9        <package android:name="com.google.android.apps.mapslite" />
+9-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\map_launcher-3.5.0\android\src\main\AndroidManifest.xml:5:9-68
+9-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\map_launcher-3.5.0\android\src\main\AndroidManifest.xml:5:18-65
+10        <package android:name="com.autonavi.minimap" />
+10-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\map_launcher-3.5.0\android\src\main\AndroidManifest.xml:6:9-56
+10-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\map_launcher-3.5.0\android\src\main\AndroidManifest.xml:6:18-53
+11        <package android:name="com.baidu.BaiduMap" />
+11-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\map_launcher-3.5.0\android\src\main\AndroidManifest.xml:7:9-54
+11-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\map_launcher-3.5.0\android\src\main\AndroidManifest.xml:7:18-51
+12        <package android:name="com.waze" />
+12-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\map_launcher-3.5.0\android\src\main\AndroidManifest.xml:8:9-44
+12-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\map_launcher-3.5.0\android\src\main\AndroidManifest.xml:8:18-41
+13        <package android:name="ru.yandex.yandexnavi" />
+13-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\map_launcher-3.5.0\android\src\main\AndroidManifest.xml:9:9-56
+13-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\map_launcher-3.5.0\android\src\main\AndroidManifest.xml:9:18-53
+14        <package android:name="ru.yandex.yandexmaps" />
+14-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\map_launcher-3.5.0\android\src\main\AndroidManifest.xml:10:9-56
+14-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\map_launcher-3.5.0\android\src\main\AndroidManifest.xml:10:18-53
+15        <package android:name="com.citymapper.app.release" />
+15-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\map_launcher-3.5.0\android\src\main\AndroidManifest.xml:11:9-62
+15-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\map_launcher-3.5.0\android\src\main\AndroidManifest.xml:11:18-59
+16        <package android:name="com.mapswithme.maps.pro" />
+16-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\map_launcher-3.5.0\android\src\main\AndroidManifest.xml:12:9-59
+16-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\map_launcher-3.5.0\android\src\main\AndroidManifest.xml:12:18-56
+17        <package android:name="net.osmand" />
+17-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\map_launcher-3.5.0\android\src\main\AndroidManifest.xml:13:9-46
+17-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\map_launcher-3.5.0\android\src\main\AndroidManifest.xml:13:18-43
+18        <package android:name="net.osmand.plus" />
+18-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\map_launcher-3.5.0\android\src\main\AndroidManifest.xml:14:9-51
+18-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\map_launcher-3.5.0\android\src\main\AndroidManifest.xml:14:18-48
+19        <package android:name="ru.dublgis.dgismobile" />
+19-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\map_launcher-3.5.0\android\src\main\AndroidManifest.xml:15:9-57
+19-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\map_launcher-3.5.0\android\src\main\AndroidManifest.xml:15:18-54
+20        <package android:name="com.tencent.map" />
+20-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\map_launcher-3.5.0\android\src\main\AndroidManifest.xml:16:9-51
+20-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\map_launcher-3.5.0\android\src\main\AndroidManifest.xml:16:18-48
+21        <package android:name="com.here.app.maps" />
+21-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\map_launcher-3.5.0\android\src\main\AndroidManifest.xml:17:9-53
+21-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\map_launcher-3.5.0\android\src\main\AndroidManifest.xml:17:18-50
+22        <package android:name="com.huawei.maps.app" />
+22-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\map_launcher-3.5.0\android\src\main\AndroidManifest.xml:18:9-55
+22-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\map_launcher-3.5.0\android\src\main\AndroidManifest.xml:18:18-52
+23        <package android:name="com.alk.copilot.mapviewer" />
+23-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\map_launcher-3.5.0\android\src\main\AndroidManifest.xml:19:9-61
+23-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\map_launcher-3.5.0\android\src\main\AndroidManifest.xml:19:18-58
+24        <package android:name="com.tomtom.gplay.navapp" />
+24-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\map_launcher-3.5.0\android\src\main\AndroidManifest.xml:20:9-58
+24-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\map_launcher-3.5.0\android\src\main\AndroidManifest.xml:20:18-56
+25        <package android:name="com.tomtom.gplay.navapp.gofleet" />
+25-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\map_launcher-3.5.0\android\src\main\AndroidManifest.xml:21:9-66
+25-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\map_launcher-3.5.0\android\src\main\AndroidManifest.xml:21:18-64
+26        <package android:name="com.sygic.truck" />
+26-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\map_launcher-3.5.0\android\src\main\AndroidManifest.xml:22:9-50
+26-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\map_launcher-3.5.0\android\src\main\AndroidManifest.xml:22:18-48
+27        <package android:name="nl.flitsmeister" />
+27-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\map_launcher-3.5.0\android\src\main\AndroidManifest.xml:23:9-51
+27-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\map_launcher-3.5.0\android\src\main\AndroidManifest.xml:23:18-48
+28        <package android:name="nl.flitsmeister.flux" />
+28-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\map_launcher-3.5.0\android\src\main\AndroidManifest.xml:24:9-56
+28-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\map_launcher-3.5.0\android\src\main\AndroidManifest.xml:24:18-53
+29        <package android:name="com.nhn.android.nmap" />
+29-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\map_launcher-3.5.0\android\src\main\AndroidManifest.xml:25:9-56
+29-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\map_launcher-3.5.0\android\src\main\AndroidManifest.xml:25:18-53
+30        <package android:name="net.daum.android.map" />
+30-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\map_launcher-3.5.0\android\src\main\AndroidManifest.xml:26:9-56
+30-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\map_launcher-3.5.0\android\src\main\AndroidManifest.xml:26:18-53
+31        <package android:name="com.skt.tmap.ku" />
+31-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\map_launcher-3.5.0\android\src\main\AndroidManifest.xml:27:9-51
+31-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\map_launcher-3.5.0\android\src\main\AndroidManifest.xml:27:18-48
+32        <package android:name="cz.seznam.mapy" />
+32-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\map_launcher-3.5.0\android\src\main\AndroidManifest.xml:28:9-50
+32-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\map_launcher-3.5.0\android\src\main\AndroidManifest.xml:28:18-47
+33        <package android:name="com.mmi.maps" />
+33-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\map_launcher-3.5.0\android\src\main\AndroidManifest.xml:29:9-48
+33-->C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\map_launcher-3.5.0\android\src\main\AndroidManifest.xml:29:18-45
+34    </queries>
+35
+36</manifest>

@@ -1,0 +1,2 @@
+com.example.image_picker_android
+xml flutter_image_picker_file_paths
