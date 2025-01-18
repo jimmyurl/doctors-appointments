@@ -1,1 +1,0 @@
-com.example.geolocator_android

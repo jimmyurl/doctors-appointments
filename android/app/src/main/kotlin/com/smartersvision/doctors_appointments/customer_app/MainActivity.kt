@@ -1,4 +1,4 @@
-package com.smartersvision.doctors_appointments_patients
+package com.smartersvision.doctors_appointments.customer_app
 
 import io.flutter.embedding.android.FlutterActivity
 
