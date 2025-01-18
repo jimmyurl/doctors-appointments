@@ -1,0 +1,2 @@
+D:\FlutterApp\android\app\src\main\kotlin\com\smartersvision\doctors_appointments\customer_app\MainActivity.kt
+D:\FlutterApp\android\app\src\main\kotlin\tz\co\afridocx\afridocx\MainActivity.kt
