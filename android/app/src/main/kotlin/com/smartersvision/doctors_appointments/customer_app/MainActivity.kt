@@ -1,4 +1,4 @@
-package com.smartersvision.doctors_appointments.customer_app
+package tz.co.afridocx.afridocx
 
 import io.flutter.embedding.android.FlutterActivity
 
