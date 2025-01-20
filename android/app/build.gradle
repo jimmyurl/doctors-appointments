@@ -40,9 +40,8 @@ android {
 dependencies {
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8:$kotlin_version"
     implementation platform('com.google.firebase:firebase-bom:32.7.1')
-    implementation project(':flutter')
     implementation "androidx.core:core-ktx:1.12.0"
-    implementation "io.flutter:flutter_embedding_debug:1.0.0-3316dd8728419ad3534e3f6112aa6291f587078a"
+    // Removed the flutter project dependency as it's handled by the Flutter Gradle plugin
 }
 
 flutter {
