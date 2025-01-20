@@ -10,13 +10,16 @@ android {
     namespace = "tz.co.afridocx.afridocx"
     compileSdkVersion = 34
     ndkVersion = "27.0.12077973"
+
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_1_8
         targetCompatibility = JavaVersion.VERSION_1_8
     }
+
     kotlinOptions {
         jvmTarget = '1.8'
     }
+
     defaultConfig {
         applicationId = "tz.co.afridocx.afridocx"
         minSdkVersion = 27
@@ -24,6 +27,7 @@ android {
         versionCode = flutter.versionCode
         versionName = flutter.versionName
     }
+
     buildTypes {
         release {
             signingConfig = signingConfigs.debug
@@ -31,6 +35,14 @@ android {
             proguardFiles(getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro')
         }
     }
+}
+
+dependencies {
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8:$kotlin_version"
+    implementation platform('com.google.firebase:firebase-bom:32.7.1')
+    implementation project(':flutter')
+    implementation "androidx.core:core-ktx:1.12.0"
+    implementation "io.flutter:flutter_embedding_debug:1.0.0-3316dd8728419ad3534e3f6112aa6291f587078a"
 }
 
 flutter {

@@ -1,8 +1,0 @@
-tz.co.afridocx.afridocx.app-debug-0 D:\FlutterApp\android\app\src\debug\res
-tz.co.afridocx.afridocx.app-main-1 D:\FlutterApp\android\app\src\main\res
-tz.co.afridocx.afridocx.app-pngs-2 D:\FlutterApp\build\app\generated\res\pngs\debug
-tz.co.afridocx.afridocx.app-res-3 D:\FlutterApp\build\app\generated\res\processDebugGoogleServices
-tz.co.afridocx.afridocx.app-resValues-4 D:\FlutterApp\build\app\generated\res\resValues\debug
-tz.co.afridocx.afridocx.app-packageDebugResources-5 D:\FlutterApp\build\app\intermediates\incremental\debug\packageDebugResources\merged.dir
-tz.co.afridocx.afridocx.app-packageDebugResources-6 D:\FlutterApp\build\app\intermediates\incremental\debug\packageDebugResources\stripped.dir
-tz.co.afridocx.afridocx.app-merged_res-7 D:\FlutterApp\build\app\intermediates\merged_res\debug

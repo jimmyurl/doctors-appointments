@@ -6,9 +6,7 @@ pluginManagement {
         assert flutterSdkPath != null, "flutter.sdk not set in local.properties"
         return flutterSdkPath
     }()
-
     includeBuild("$flutterSdkPath/packages/flutter_tools/gradle")
-
     repositories {
         google()
         mavenCentral()
@@ -22,14 +20,34 @@ plugins {
     id "com.google.gms.google-services" version "4.4.0" apply false
 }
 
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.PREFER_SETTINGS)
+    repositories {
+        google()
+        mavenCentral()
+        maven { url 'https://storage.googleapis.com/download.flutter.io' }
+    }
+}
+
 include(":app")
+
+def flutterProjectRoot = rootProject.projectDir.parentFile
+def plugins = new Properties()
+def flutterSdkPath = {
+    def properties = new Properties()
+    file("local.properties").withInputStream { properties.load(it) }
+    return properties.getProperty("flutter.sdk")
+}()
+
+assert flutterSdkPath != null, "flutter.sdk not set in local.properties"
+apply from: "$flutterSdkPath/packages/flutter_tools/gradle/app_plugin_loader.gradle"
 
 // Firebase plugin namespace fix
 gradle.beforeProject { project ->
     if (project.hasProperty('android')) {
         if (!project.hasProperty('android.namespace')) {
             project.android {
-                namespace = "com.example.${project.name}"
+                namespace = "tz.co.afridocx.afridocx"  // Updated to your package name
             }
         }
     }
